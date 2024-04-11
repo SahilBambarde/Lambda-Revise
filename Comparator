@@ -1,0 +1,4 @@
+Comparator Interface
+{
+public int compare(Object a, Object b)
+}

@@ -1,0 +1,8 @@
+Supplier Interface
+
+Supplier Interface : A Predefined Functional Interface
+
+interface Supplier<R>
+{
+R.get();
+}

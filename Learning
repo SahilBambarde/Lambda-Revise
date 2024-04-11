@@ -1,0 +1,17 @@
+Lambda Expression
+Functional Interfaces
+Default Methods
+Static Methods
+Lambda Expression with Collections
+Pre Defined Functional Interfaces
+Predicate
+Function
+Consumers
+:: Operator - Method reference and Constructor reference
+
+Lambda Importance
+Functional Programming
+To write clean code
+To use parallel processing using Lambda with streams
+
+Lambda expression is an anonymous function (without any name, without any modifier,without any return type)

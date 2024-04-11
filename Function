@@ -1,0 +1,6 @@
+Function Interface
+
+interface Function<T,R>
+{
+R apply(T t)
+}
